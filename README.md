@@ -1,2 +1,2 @@
 # paperspace-template
-#個人用
+個人用
